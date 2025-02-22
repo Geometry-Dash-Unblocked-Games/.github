@@ -4,7 +4,7 @@
 
 *Geometry Dash Scratch* is a fan-made version of the popular rhythm-based platformer *Geometry Dash*. Created on the Scratch platform, this version allows players to enjoy the iconic gameplay with a creative twist. Whether you’re looking to experience the excitement of the original game or explore custom levels, *Geometry Dash Scratch* offers endless entertainment.
 
-## <a href="https://classroom-6x-cool.gitlab.io/">👉 Geometry Dash Scratch 👈</a>
+## <a href="https://classroom-6x-cool.gitlab.io/geometry-dash.html">👉 Geometry Dash Scratch 👈</a>
 
 ![geometry dash scratch all levels](https://github.com/user-attachments/assets/88c2102a-cc4f-4b56-b3af-ac6bcb62b3e3)
 
